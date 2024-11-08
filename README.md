@@ -90,18 +90,13 @@ Descrição Visual: Hachi está deitado sobre uma colina, olhando para o céu es
 Diálogo (pensamento de Hachi): “Afinal, a verdadeira inteligência está em saber viver em harmonia…”
 
 Fim.
-![Hachi](C:\Users\dayana.santos1\Downloads\DALL·E 2024-11-08 17.23.16 - A manga-style comic with Hachi, a wise, bearded cybernetic dog wearing a futuristic explorer suit. The story has multiple panels_ 1st - Hachi, in a co)
+
 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
